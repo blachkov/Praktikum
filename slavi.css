@@ -1,0 +1,11 @@
+img
+{
+    height: 400px;
+    width: 300px;
+}
+body{
+    background-color: #4b5e70;
+}
+.card-body{
+    background-color: #6ea0af;
+}
